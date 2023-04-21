@@ -59,7 +59,13 @@ function generateAsk() {
     {
       type: "input",
       name: "github",
-      message: "Add github email for more question",
+      message: "Add github sername",
+    },
+
+    {
+      type: "input",
+      name: "userEmail",
+      message: "Add users email",
     },
 
     {
