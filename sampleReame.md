@@ -43,7 +43,6 @@ If your README is very long, add a table of contents to make it easy for users t
   
   ---
   
-  🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
   
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
