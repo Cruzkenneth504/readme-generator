@@ -7,9 +7,7 @@ const licenseArr = [
   "Artistic license 2.0",
 ];
 
-// TODO: Create a function that returns a license badge based on which license is passed in
 
-// If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license == licenseArr[0]) {
     return "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)]";
@@ -103,7 +101,8 @@ If your README is very long, add a table of contents to make it easy for users t
 
   ## Credits
    
-  Name: ${data.credits} Email: ${data.email}
+  Name: ${data.credits}  
+  Email: ${data.email}
 
 
   
@@ -126,7 +125,7 @@ If your README is very long, add a table of contents to make it easy for users t
   If your project has a lot of features, consider adding a heading called "Features" and listing them there.
   
   ## Contributing
-    ${data.contributers}
+    ${data.contributors}
    
   
   ## Tests
@@ -134,12 +133,13 @@ If your README is very long, add a table of contents to make it easy for users t
   Go the extra mile and write tests for your application. Then provide examples on how to run them.
   
   ---
+
   ## Questions?
   
-  ### Contact: 
+  # Contact: 
 
-  [${data.github}](https://github.com/${data.github})  
-   ${data.userEmail};
+  - [${data.github}](https://github.com/${data.github})  
+     ${data.userEmail};
  
 
 `;

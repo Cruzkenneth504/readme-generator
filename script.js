@@ -27,12 +27,12 @@ function generateAsk() {
 
     {
       type: "input",
-      message: "Credit your collaborators",
+      message: "Creditors name",
       name: "credits",
     },
     {
       type: "input",
-      message: "Enter your collaborator email",
+      message: "Enter your creditors email",
       name: "email",
     },
 
@@ -59,7 +59,7 @@ function generateAsk() {
     {
       type: "input",
       name: "github",
-      message: "Add github sername",
+      message: "Add github username",
     },
 
     {
