@@ -26,6 +26,8 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ### Use the next steps for applicatiosn usage
 
+# Images
+
 * - Step One Use command line.
 
 ![alt text](./imgs/step1.png)
@@ -37,6 +39,10 @@ If your README is very long, add a table of contents to make it easy for users t
 * - Step three after completing quetionary all Readme has been generated
 
 ![alt text](./imgs/step3.png)
+
+# Video guide
+
+- [cruzkenneth504-Youtube](https://youtu.be/pIt17NjRlm0)  
 
 
 ## License
