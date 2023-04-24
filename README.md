@@ -19,28 +19,20 @@ If your README is very long, add a table of contents to make it easy for users t
 1. Download and install the Node.js package from the official website: https://nodejs.org/en/
 2. Follow the instructions on the website to install the package. 
 3. Once installed, open the terminal of your operating system to confirm that Node.js has been successfully installed by typing 'node -v' and press enter. This should return the version number of Node.js installed. 
-4. Congratulations! You have successfully set up Node.js.         cle
+4. Congratulations! You have successfully set up Node.js.        
+
+### RequireJS:
+
+1. Open your project in the terminal/command prompt
+2. Type the following command: npm install requirejs
+3. Press Enter to install the package.
+4. RequireJS is now installed in your project.
+ [Visit Requirer](https://requirejs.org/)
 
 
 ## Usage 
 
-### Use the next steps for applicatiosn usage
-
-# Images
-
-* - Step One Use command line.
-
-![alt text](./imgs/step1.png)
-
-*  - Step two answer questionary
-
-![alt text](./imgs/step2.png)
-
-* - Step three after completing quetionary all Readme has been generated
-
-![alt text](./imgs/step3.png)
-
-# Video guide
+### Video Guide for Usage 
 
 - [cruzkenneth504-Youtube](https://youtu.be/pIt17NjRlm0)  
 
